@@ -1,0 +1,7 @@
+DEBUG:root:get bibfile: .gitignore
+DEBUG:root:get bibfile: lyapunov_fluid.bib
+DEBUG:root:get bibfile: newly-added.bib
+DEBUG:root:get bibfile: qps-references.bib
+DEBUG:root:get bibfile: QPS.bib
+DEBUG:root:get bibfile: queue_proportional_scheduling.bib
+DEBUG:root:get bibfile: serenade-references.bib
