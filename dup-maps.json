@@ -9,8 +9,8 @@
         "Gong2017arXivSERENADE"
     ],
     "GiacconePrabhakarShah2003": [
-        "GiacconePrabhakarShah2003SERENA",
-        "GiacconePrabhakarShah2003SerenaJSAC"
+        "GiacconePrabhakarShah2003SerenaJSAC",
+        "GiacconePrabhakarShah2003SERENA"
     ],
     "KarolHluchyjMorgan1987HOL": [
         "Karol1987VOQHOL"
@@ -27,17 +27,11 @@
     "Tassiulas1998": [
         "Tassiulas1998TASS"
     ],
-    "Shah06MWM": [
-        "ShahWischik2006MWM0"
-    ],
     "Firoozshahian2007CIOQ": [
         "Firoozshahian07CIOQ"
     ],
     "Tassiulas90Max": [
         "Tassiulas90MaxWeight"
-    ],
-    "Firoozshahian07CIOQ": [
-        "Firoozshahian2007CIOQ"
     ],
     "Shah2012queuescaling": [
         "Shah2012DelayBound"
@@ -54,9 +48,6 @@
     "Passas_CombinedInputOutput_2015": [
         "Passas2015CIOQ"
     ],
-    "Cakir2015HighRadix": [
-        "Cakir_ModelingDesignHigh_2015"
-    ],
     "Passas2012bHighRadix": [
         "Passas_CrossbarNoCsAre_2012"
     ],
@@ -66,44 +57,18 @@
     "Kim2005HighRadixCrossbar": [
         "Kim2005RouterDevTrand"
     ],
-    "Karol1987VOQHOL": [
-        "KarolHluchyjMorgan1987HOL"
-    ],
     "Leonardi2001Stability": [
         "LeonardiMelliaNeriEtAl2001stability"
     ],
     "Gong2017QPS": [
         "GongTuneLiuEtAl2017QPS"
     ],
-    "GiacconePrabhakarShah2003SERENA": [
-        "GiacconePrabhakarShah2003",
-        "GiacconePrabhakarShah2003SerenaJSAC"
-    ],
     "Neely2007DelayBound": [
         "Neely2007FrameBased"
     ],
-    "Shah2012DelayBound": [
-        "Shah2012queuescaling"
-    ],
-    "Maguluri2016DelayBound": [
-        "Maguluri_Heavytrafficqueue_2016"
-    ],
     "Gupta2009DistributedMatching": [
-        "Gupta_LowComplexityDistributed_2009",
-        "Gupta2009DistSched"
-    ],
-    "Tamir1988VOQ": [
-        "Tamir_HighperformanceMulti_1988"
-    ],
-    "Tassiulas90MaxWeight": [
-        "Tassiulas90Max"
-    ],
-    "Gupta_LowComplexityDistributed_2009": [
-        "Gupta2009DistributedMatching",
-        "Gupta2009DistSched"
-    ],
-    "Passas_CrossbarNoCsAre_2012": [
-        "Passas2012bHighRadix"
+        "Gupta2009DistSched",
+        "Gupta_LowComplexityDistributed_2009"
     ],
     "Hu_HighestRankFirst_2018": [
         "Hu2018HRF"
@@ -112,71 +77,10 @@
         "LiPanwarChao2001DRRMProof",
         "Li2001DRR"
     ],
-    "McKeown_iLQF_1995": [
-        "McKeown1995iLQF"
-    ],
     "ModianoShahZussman2006gossiping": [
         "ModianoShahZussman2006DistSched"
     ],
-    "Dai2017HighRadix": [
-        "Dai2017HighRadixCrossbar"
-    ],
-    "Kim2005RouterDevTrand": [
-        "Kim2005HighRadixCrossbar"
-    ],
-    "Neely2007FrameBased": [
-        "Neely2007DelayBound"
-    ],
-    "Gong2017arXivSERENADE": [
-        "GongLiuYangEtAl2018"
-    ],
     "Wang2016ParallelEdgeColoring": [
         "Wang2016"
-    ],
-    "GiacconePrabhakarShah2003SerenaJSAC": [
-        "GiacconePrabhakarShah2003SERENA",
-        "GiacconePrabhakarShah2003"
-    ],
-    "GongTuneLiuEtAl2017QPS": [
-        "Gong2017QPS"
-    ],
-    "Gupta2009DistSched": [
-        "Gupta_LowComplexityDistributed_2009",
-        "Gupta2009DistributedMatching"
-    ],
-    "LeonardiMelliaNeriEtAl2001stability": [
-        "Leonardi2001Stability"
-    ],
-    "LiPanwarChao2001DRRMProof": [
-        "YihanLi_drr_2001",
-        "Li2001DRR"
-    ],
-    "ModianoShahZussman2006DistSched": [
-        "ModianoShahZussman2006gossiping"
-    ],
-    "cakir2016HighRadix": [
-        "Cakir2016HighRadixCrossbar"
-    ],
-    "Passas2015CIOQ": [
-        "Passas_CombinedInputOutput_2015"
-    ],
-    "ShahGiacconePrabhakar2002SerenaMicro": [
-        "ShahGiacconePrabhakar2002serena"
-    ],
-    "Tassiulas1998TASS": [
-        "Tassiulas1998"
-    ],
-    "Wang2016": [
-        "Wang2016ParallelEdgeColoring"
-    ],
-    "Keslassy2003MSM": [
-        "Keslassy_Maximumsizematching_2003"
-    ],
-    "Li2001DRR": [
-        "LiPanwarChao2001DRRMProof",
-        "YihanLi_drr_2001"
-    ],
-    "Hu2018HRF": [
-        "Hu_HighestRankFirst_2018"
     ]
 }

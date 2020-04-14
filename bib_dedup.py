@@ -4,7 +4,7 @@ import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.bwriter import BibTexWriter
-from bibtexparser.customization import convert_to_unicode
+from bibtexparser.customization import convert_to_unicode, page_double_hyphen
 from bibtexparser.customization import homogenize_latex_encoding
 import editdistance
 import codecs
@@ -149,6 +149,7 @@ def parse_bib_database(bibFile: str) -> BibDatabase:
     with codecs.open(bibFile, "r", "utf-8") as bibtex_file:
         parser = BibTexParser(common_strings=True, interpolate_strings=False)
         # parser.customization = convert_to_unicode
+        parser.customization = page_double_hyphen
         try:
             return bibtexparser.loads(bibtex_file.read(), parser=parser)
         except IndexError as e:
@@ -190,6 +191,7 @@ def bib_unique(
                     if editdistance.eval(ta, tb) <= l * THRESHOLD:
                         dup_for_this.append(j)
         if len(dup_for_this) > 1:
+            dup_set.update(set(dup_for_this[1:]))
             this_id = entries[dup_for_this[0]]["ID"]
             other_ids = set([entries[k]["ID"] for k in dup_for_this])
             other_ids.remove(this_id)
@@ -252,7 +254,9 @@ def bib_dedup(directory):
     used_db.entries = used_entries
     with codecs.open("used.bib", "w", "utf-8") as u_bibfile:
         u_bibfile.write(writer.write(used_db))
-
+    used_dup_maps = {key: value for key, value in dup_maps.items() if key in used_ids}
+    with codecs.open("sub-dup-maps.json", "w", "utf-8") as jf:
+        json.dump(used_dup_maps, jf, indent=4)
 
 
 

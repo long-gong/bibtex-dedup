@@ -1,0 +1,55 @@
+{
+    "Dai2017HighRadixCrossbar": [
+        "Dai2017HighRadix"
+    ],
+    "Cakir_ModelingDesignHigh_2015": [
+        "Cakir2015HighRadix"
+    ],
+    "GongLiuYangEtAl2018": [
+        "Gong2017arXivSERENADE"
+    ],
+    "GiacconePrabhakarShah2003": [
+        "GiacconePrabhakarShah2003SerenaJSAC",
+        "GiacconePrabhakarShah2003SERENA"
+    ],
+    "McKeown1995iLQF": [
+        "McKeown_iLQF_1995"
+    ],
+    "ShahGiacconePrabhakar2002serena": [
+        "ShahGiacconePrabhakar2002SerenaMicro"
+    ],
+    "ShahWischik2006MWM0": [
+        "Shah06MWM"
+    ],
+    "Tassiulas1998": [
+        "Tassiulas1998TASS"
+    ],
+    "Tassiulas90Max": [
+        "Tassiulas90MaxWeight"
+    ],
+    "Shah2012queuescaling": [
+        "Shah2012DelayBound"
+    ],
+    "Passas2012bHighRadix": [
+        "Passas_CrossbarNoCsAre_2012"
+    ],
+    "Cakir2016HighRadixCrossbar": [
+        "cakir2016HighRadix"
+    ],
+    "Gong2017QPS": [
+        "GongTuneLiuEtAl2017QPS"
+    ],
+    "Hu_HighestRankFirst_2018": [
+        "Hu2018HRF"
+    ],
+    "YihanLi_drr_2001": [
+        "LiPanwarChao2001DRRMProof",
+        "Li2001DRR"
+    ],
+    "ModianoShahZussman2006gossiping": [
+        "ModianoShahZussman2006DistSched"
+    ],
+    "Wang2016ParallelEdgeColoring": [
+        "Wang2016"
+    ]
+}
