@@ -1,0 +1,62 @@
+
+Parallel Processing Letters
+IEEE Communications Surveys Tutorials
+Journal of Computer Science and Technology
+MaPhySto Miscellanea Publication
+Math. Oper. Res.=Mathematics of Operations Research
+Contributions to the Theory of Games
+Univ. Nac. Tucum\'{a}n Rev. Ser. A
+IEEE Transactions on Communications
+SIGARCH Comput. Archit. News={ACM SIGARCH} Computer Architecture News
+Adv. Appl. Probab.=Advances in Applied Probability
+Queueing Syst. Theory Appl.=Queueing systems: Theory and Applications
+{IEEE/ACM} Trans. Netw.={IEEE/ACM} Transactions on Networking
+The Annals of Mathematics
+IEEE/ACM Transactions on Networking={IEEE/ACM} Transactions on Networking
+IEEE Trans. Commun.={IEEE} Transactions on Communications
+ArXiv e-prints
+IEEE Transactions on Information Theory={IEEE} Transactions on Information Theory
+Queueing Systems
+Computer Communications
+Int. J. Parallel Program.=International Journal of Parallel Programming
+{IEEE Trans. Ind. Informat.}={IEEE} Transactions on Industrial Informatics
+ACM Trans. Comput. Syst.={ACM} Transactions on Computer Systems
+Cisco
+Ann. Appl. Probab.=Annals of Applied Probability
+The Annals of Statistics
+arXiv preprint arXiv:1512.01271
+Journal of Algorithms
+{IEEE} Trans. Inf. Theory={IEEE} Transactions on Information Theory
+Journal of the ACM=Journal of the {ACM}
+Stoch. Syst.=Stochastic Systems
+IEEE Trans. Parallel Distrib. Syst.={IEEE} Transactions on Parallel and Distributed Systems
+Oper. Res.=Operations Research
+Proceedings of the ACM CoNEXT
+IEEE Transactions on Parallel and Distributed Systems={IEEE} Transactions on Parallel and Distributed Systems
+Inf. Process. Lett.=Information Processing Letters
+SIAM Journal on Computing
+IEEE Trans. Mobile Comput.={IEEE} Transactions on Mobile Computing
+Journal of Lightwave Technology
+Proceedings of the ACM on Measurement and Analysis of Computing Systems - SIGMETRICS
+IEEE/ACM Trans. Netw.={IEEE/ACM} Transactions on Networking
+IEEE Micro={IEEE} Micro
+IEEE Transactions on Computers={IEEE} Transactions on Computers
+ACM SIGARCH Computer Architecture News
+arXiv e-prints
+{IEEE} J. Sel. Areas Commun.={IEEE} Journal on Selected Areas in Communications
+Distrib. Comput.=Distributed Computing
+Computer communications
+SIGCOMM Comput. Commun. Rev.={ACM SIGCOMM} Computer Communication Review
+Journal of Applied Probability
+Information Processing Letters
+IEEE Journal on Selected Areas in Communications=={IEEE} Journal on Selected Areas in Communications
+The American Mathematical Monthly
+{IEEE Access}
+Electronic Journal of Combinatorics
+IEEE Communications Letters={IEEE} Communications Letters
+IEEE Transactions on Automatic Control={IEEE} Transactions on Automatic Control
+J. ACM=Journal of the {ACM}
+The Annals of Applied Probability
+CoRR
+USC/Information Sciences Institute, Tech. Rep. ISI-TR-2007-643
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems={IEEE} Transactions on Computer-Aided Design of Integrated Circuits and Systems

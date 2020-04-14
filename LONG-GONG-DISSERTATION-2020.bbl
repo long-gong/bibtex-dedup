@@ -1,0 +1,3622 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{birrittella2015intel}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=BMS}{%
+         family={Birrittella},
+         familyi={B\bibinitperiod},
+         given={Mark\bibnamedelima S},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Debbage},
+         familyi={D\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Huggahalli},
+         familyi={H\bibinitperiod},
+         given={Ram},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kunz},
+         familyi={K\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lovett},
+         familyi={L\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RT}{%
+         family={Rimmer},
+         familyi={R\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=UKD}{%
+         family={Underwood},
+         familyi={U\bibinitperiod},
+         given={Keith\bibnamedelima D},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=ZRC}{%
+         family={Zak},
+         familyi={Z\bibinitperiod},
+         given={Robert\bibnamedelima C},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{BMSDMHRKJLTRTUKDZRC1}
+    \strng{fullhash}{BMSDMHRKJLTRTUKDZRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2015 IEEE 23rd Annual Symposium on High-Performance
+  Interconnects}
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{Intel{\textregistered} Omni-path architecture: Enabling
+  scalable, high performance fabrics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Dai2017HighRadixCrossbar}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=DY}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=QG}{%
+         family={Qu},
+         familyi={Q\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=XL}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dong},
+         familyi={D\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=QX}{%
+         family={Qi},
+         familyi={Q\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \keyw{application specific integrated circuits;computer
+  architecture;digital arithmetic;logic circuits;logic design;high-radix router
+  design;multiport binding tile-based router;scalable router
+  microarchitecture;tile-based crossbar approach;Bandwidth;Complexity
+  theory;Microarchitecture;Multiprocessor interconnection;Ports
+  (Computers);Switches;Throughput;ASIC implementation;arbitration
+  logic;high-radix router architecture;scalability}
+    \strng{namehash}{DYWKQGXLDDQX1}
+    \strng{fullhash}{DYWKQGXLDDQX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE IPDPS}
+    \verb{doi}
+    \verb 10.1109/IPDPS.2017.15
+    \endverb
+    \field{pages}{429\bibrangedash 438}
+    \field{title}{{A Scalable and Resilient Microarchitecture Based on
+  Multiport Binding for High-Radix Router Design}}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{kim2007flattened}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DWJ}{%
+         family={Dally},
+         familyi={D\bibinitperiod},
+         given={William\bibnamedelima J},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AD}{%
+         family={Abts},
+         familyi={A\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{KJDWJAD1}
+    \strng{fullhash}{KJDWJAD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{126\bibrangedash 137}
+    \field{title}{Flattened butterfly: a cost-efficient topology for high-radix
+  networks}
+    \field{volume}{35}
+    \field{journaltitle}{ACM SIGARCH Computer Architecture News}
+    \field{year}{2007}
+  \endentry
+
+  \entry{liao2015high}{article}{}
+    \name{author}{8}{}{%
+      {{hash=LXK}{%
+         family={Liao},
+         familyi={L\bibinitperiod},
+         given={Xiang-Ke},
+         giveni={X\bibinithyphendelim K\bibinitperiod},
+      }}%
+      {{hash=PZB}{%
+         family={Pang},
+         familyi={P\bibinitperiod},
+         given={Zheng-Bin},
+         giveni={Z\bibinithyphendelim B\bibinitperiod},
+      }}%
+      {{hash=WKF}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Ke-Fei},
+         giveni={K\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=LYT}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Yu-Tong},
+         giveni={Y\bibinithyphendelim T\bibinitperiod},
+      }}%
+      {{hash=XM}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Min},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xia},
+         familyi={X\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DDZ}{%
+         family={Dong},
+         familyi={D\bibinitperiod},
+         given={De-Zun},
+         giveni={D\bibinithyphendelim Z\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Suo},
+         familyi={S\bibinitperiod},
+         given={Guang},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{LXKPZBWKFLYTXMXJDDZSG1}
+    \strng{fullhash}{LXKPZBWKFLYTXMXJDDZSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{259\bibrangedash 272}
+    \field{title}{High performance interconnect network for Tianhe system}
+    \field{volume}{30}
+    \field{journaltitle}{Journal of Computer Science and Technology}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Cakir2016HighRadixCrossbar}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CC}{%
+         family={Cakir},
+         familyi={C\bibinitperiod},
+         given={Cagla},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Ron},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lexau},
+         familyi={L\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Mai},
+         familyi={M\bibinitperiod},
+         given={Ken},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{network-on-chip;switches;BookSim2;CMOS bulk;analytical crossbar
+  switch modeling tool;cycle-accurate detailed network;energy delay
+  product;energy savings;fast single-stage networks;linear performance
+  scaling;modular crossbar networks;pipelined scheme;router cores;scalable
+  high-radix modular crossbar switches;size 40 nm;unused I/O wire
+  deactivation;Clocks;Multiplexing;Ports (Computers);Resource
+  management;Switches;Throughput;Wires}
+    \strng{namehash}{CCHRLJMK1}
+    \strng{fullhash}{CCHRLJMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the HOTI}
+    \verb{doi}
+    \verb 10.1109/HOTI.2016.019
+    \endverb
+    \field{pages}{37\bibrangedash 44}
+    \field{title}{{Scalable High-Radix Modular Crossbar Switches}}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{dai2018cost}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DY}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=XL}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Liquan},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Jinshu},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{DYLKXLSJ1}
+    \strng{fullhash}{DYLKXLSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{738\bibrangedash 753}
+    \field{title}{A Cost-Efficient Router Architecture for HPC Inter-Connection
+  Networks: Design and Implementation}
+    \field{volume}{30}
+    \field{journaltitle}{IEEE Transactions on Parallel and Distributed Systems}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Sankar_BroadcomShipsTomahawk_2017}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Sankar},
+         familyi={S\bibinitperiod},
+         given={Rochan},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+  \field{howpublished}{\url{https://people.ucsc.edu/~warner/Bufs/StrataXGS-Tomahawk3-Briefing-Deck-FINAL-DS.pdf}}
+    \field{title}{{Broadcom Ships Tomahawk 3: Industry’s Highest Bandwidth
+  Ethernet Switch Chip at 12.8 Terabits per Second}}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Chrysos_SCOCHighradix_2015}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=CN}{%
+         family={{Chrysos}},
+         familyi={C\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={{Minkenberg}},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={{Rudquist}},
+         familyi={R\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={{Basso}},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=VB}{%
+         family={{Vanderpool}},
+         familyi={V\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \keyw{application specific integrated circuits;circuit complexity;hypercube
+  networks;multistage interconnection networks;processor
+  scheduling;switches;SCOC;bufferless Clos networks;datacenters;big data
+  handling;exascale computers;computing resources;storage resources;switch
+  architecture;economical IC implementation;high-radix switch nodes;multistage
+  bufferless network;design parameter;fairness violations;hierarchical
+  scheduling;flat crossbars;computer simulations;hierarchical switches;ASIC
+  implementation;shallow buffers;server-rack fat-tree network;fall-through
+  latency;Clocks;Ports
+  (Computers);Wires;Scheduling;System-on-chip;Topology;Computer architecture}
+    \strng{namehash}{CNMCRMBCVB1}
+    \strng{fullhash}{CNMCRMBCVB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2015 IEEE 21st International Symposium on High
+  Performance Computer Architecture (HPCA)}
+    \verb{doi}
+    \verb 10.1109/HPCA.2015.7056050
+    \endverb
+    \field{pages}{402\bibrangedash 414}
+    \field{title}{SCOC: High-radix switches made of bufferless clos networks}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Corporation_NVLinkNVSwitchBuilding_2018}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CN}{%
+         family={Corporation},
+         familyi={C\bibinitperiod},
+         given={NVIDIA},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CN1}
+    \strng{fullhash}{CN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+  \field{howpublished}{\url{https://www.nvidia.com/en-us/data-center/nvlink/}}
+    \field{title}{{NVLink and NVSwitch: The Building Blocks of Advanced
+  Multi-GPU Communication}}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Abeyratne_Scalingtowardskilo_2013}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=AN}{%
+         family={{Abeyratne}},
+         familyi={A\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={{Das}},
+         familyi={D\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={{Li}},
+         familyi={L\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={{Sewell}},
+         familyi={S\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={{Giridhar}},
+         familyi={G\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DRG}{%
+         family={{Dreslinski}},
+         familyi={D\bibinitperiod},
+         given={R.\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={{Blaauw}},
+         familyi={B\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={{Mudge}},
+         familyi={M\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{digital arithmetic;integrated circuit design;microprocessor
+  chips;multiprocessor interconnection networks;network routing;network
+  topology;optimisation;performance evaluation;power aware
+  computing;system-on-chip;power efficiency;network throughput;power
+  consumption reduction;network latency;superimposed mesh;Super-StarX
+  topologies;asymmetric folded Clos topologies;Super-Star topologies;power
+  budgets;performance scalability;asymmetric high-radix designs;Swizzle
+  switches;hop count reduction;high-radix routers;fast medium-radix
+  routers;router speed;interconnect design;global communication
+  optimization;symmetric high-radix topologies;network routers;fast local
+  communication;kilo-core processors;on-chip network scaling;asymmetric
+  high-radix topologies;Topology;Network topology;Wires;Global
+  communication;Program processors;Throughput;Delays}
+    \strng{namehash}{ANDRLQSKGBDRGBDMT1}
+    \strng{fullhash}{ANDRLQSKGBDRGBDMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2013 IEEE 19th International Symposium on High
+  Performance Computer Architecture (HPCA)}
+    \verb{doi}
+    \verb 10.1109/HPCA.2013.6522344
+    \endverb
+    \field{pages}{496\bibrangedash 507}
+    \field{title}{Scaling towards kilo-core processors with asymmetric
+  high-radix topologies}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Zhao_CDXbarConverge_2019}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZX}{%
+         family={{Zhao}},
+         familyi={Z\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={{Ma}},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={{Wang}},
+         familyi={W\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=JNE}{%
+         family={{Jerger}},
+         familyi={J\bibinitperiod},
+         given={N.\bibnamedelima E.},
+         giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=EL}{%
+         family={{Eeckhout}},
+         familyi={E\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZXMSWZJNEEL1}
+    \strng{fullhash}{ZXMSWZJNEEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TC.2019.2906869
+    \endverb
+    \field{number}{9}
+    \field{pages}{1283\bibrangedash 1296}
+    \field{title}{{CD-Xbar: A Converge-Diverge Crossbar Network for
+  High-Performance GPUs}}
+    \field{volume}{68}
+    \field{journaltitle}{IEEE Transactions on Computers}
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Cakir_ModelingDesignHigh_2015}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CC}{%
+         family={Cakir},
+         familyi={C\bibinitperiod},
+         given={Cagla},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Ron},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lexau},
+         familyi={L\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Mai},
+         familyi={M\bibinitperiod},
+         given={Ken},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \keyw{Crossbar, Modeling, Network on Chip}
+    \strng{namehash}{CCHRLJMK1}
+    \strng{fullhash}{CCHRLJMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 9th International Symposium on
+  Networks-on-Chip}
+    \verb{doi}
+    \verb 10.1145/2786572.2786579
+    \endverb
+    \field{isbn}{978-1-4503-3396-2}
+    \field{pages}{20:1\bibrangedash 20:8}
+    \field{series}{NOCS '15}
+    \field{title}{{Modeling and Design of High-Radix On-Chip Crossbar
+  Switches}}
+    \list{location}{1}{%
+      {Vancouver, BC, Canada}%
+    }
+    \field{year}{2015}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{Passas2012bHighRadix}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PG}{%
+         family={Passas},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Katevenis},
+         familyi={K\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pnevmatikatos},
+         familyi={P\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{CMOS integrated circuits;digital arithmetic;network-on-chip;crossbar
+  NoC;radix 128 crossbar;CMOS;data path;three stage pipeline;flip flops;global
+  links;size 90 nm;frequency 750 MHz;Multiplexing;Wires;Logic
+  gates;Wiring;Random access memory;Delay;ASICs;crossbar;networks-on-chip}
+    \strng{namehash}{PGKMPD1}
+    \strng{fullhash}{PGKMPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TCAD.2011.2176730
+    \endverb
+    \field{issn}{0278-0070}
+    \field{number}{4}
+    \field{pages}{573\bibrangedash 585}
+    \field{title}{Crossbar NoCs Are Scalable Beyond 100 Nodes}
+    \field{volume}{31}
+    \field{journaltitle}{IEEE Transactions on Computer-Aided Design of
+  Integrated Circuits and Systems}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Passas2011SwitchAllocation}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=PG}{%
+         family={Passas},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Katevenis},
+         familyi={K\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pnevmatikatos},
+         familyi={P\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{CMOS logic circuits;VLSI;asynchronous circuits;digital
+  arithmetic;integrated circuit layout;multiprocessor interconnection
+  networks;network-on-chip;2-VC crossbar;CMOS layouts;VLSI
+  microarchitecture;VOQ;arbiter block;high-radix crossbar scheduler;matching
+  decision;orthogonal interleaver;parallel-matching crossbar scheduler;point to
+  point links;radix-128 FIFO;size 90 nm;virtual channel;virtual output
+  queues;Algorithm design and analysis;Layout;ASICs;Crossbar;Parallel Iterative
+  Matching}
+    \strng{namehash}{PGKMPD1}
+    \strng{fullhash}{PGKMPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the ACM/IEEE NoCS}
+    \field{pages}{217\bibrangedash 224}
+    \field{title}{{VLSI Micro-architectures for High-radix Crossbar
+  Schedulers}}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Tassiulas90Max}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TL}{%
+         family={Tassiulas},
+         familyi={T\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Ephremides},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TLEA1}
+    \strng{fullhash}{TLEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{12}
+    \field{pages}{1936\bibrangedash 1948}
+    \field{title}{Stability properties of constrained queueing systems and
+  scheduling policies for maximum throughput in multihop radio networks}
+    \field{volume}{37}
+    \field{journaltitle}{{IEEE} Trans. Autom. Control}
+    \field{year}{1992}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{McKeownMekkittikulAnantharamEtAl1999}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MN}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mekkittikul},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AV}{%
+         family={Anantharam},
+         familyi={A\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Walrand},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNMAAVWJ1}
+    \strng{fullhash}{MNMAAVWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/26.780463
+    \endverb
+    \field{issn}{0090-6778}
+    \field{number}{8}
+    \field{pages}{1260\bibrangedash 1267}
+    \field{title}{{Achieving 100\% Throughput in an Input-Queued Switch}}
+    \field{volume}{47}
+    \field{journaltitle}{{IEEE} Trans. Commun.}
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Duan2012MBWP}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=DR}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={Ran},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SHH}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Hsin-Hao},
+         giveni={H\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DRSHH1}
+    \strng{fullhash}{DRSHH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the ACM-SIAM SODA}
+    \field{pages}{1413\bibrangedash 1424}
+    \field{title}{{A Scaling Algorithm for Maximum Weight Matching in Bipartite
+  Graphs}}
+    \verb{url}
+    \verb http://dl.acm.org/citation.cfm?id=2095116.2095227
+    \endverb
+    \list{location}{1}{%
+      {Kyoto, Japan}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{GiacconePrabhakarShah2003SerenaJSAC}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GP}{%
+         family={Giaccone},
+         familyi={G\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Prabhakar},
+         familyi={P\bibinitperiod},
+         given={Balaji},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GPPBSD1}
+    \strng{fullhash}{GPPBSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{546\bibrangedash 559}
+    \field{title}{{Randomized Scheduling Algorithms for High-Aggregate
+  Bandwidth Switches}}
+    \field{volume}{21}
+    \field{journaltitle}{{IEEE} J. Sel. Areas Commun.}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{McKeown99iSLIP}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MN}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Press}%
+    }
+    \strng{namehash}{MN1}
+    \strng{fullhash}{MN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/90.769767
+    \endverb
+    \field{issn}{1063-6692}
+    \field{number}{2}
+    \field{pages}{188\bibrangedash 201}
+    \field{title}{{The iSLIP Scheduling Algorithm for Input-queued Switches}}
+    \field{volume}{7}
+    \list{location}{1}{%
+      {Piscataway, NJ, USA}%
+    }
+    \field{journaltitle}{{IEEE/ACM} Trans. Netw.}
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Tamir1988VOQ}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TY}{%
+         family={Tamir},
+         familyi={T\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=FGL}{%
+         family={Frazier},
+         familyi={F\bibinitperiod},
+         given={G.\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{TYFGL1}
+    \strng{fullhash}{TYFGL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/633625.52439
+    \endverb
+    \field{issn}{0163-5964}
+    \field{number}{2}
+    \field{pages}{343\bibrangedash 354}
+    \field{title}{{High-performance Multi-queue Buffers for VLSI Communications
+  Switches}}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/633625.52439
+    \endverb
+    \field{volume}{16}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{SIGARCH Comput. Archit. News}
+    \field{month}{05}
+    \field{year}{1988}
+  \endentry
+
+  \entry{Gupta09Node}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GGR}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Gagan\bibnamedelima R.},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sanghavi},
+         familyi={S\bibinitperiod},
+         given={Sujay},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SNB}{%
+         family={Shroff},
+         familyi={S\bibinitperiod},
+         given={Ness\bibnamedelima B.},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GGRSSSNB1}
+    \strng{fullhash}{GGRSSSNB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the ACM SIGMETRICS}
+    \field{pages}{97\bibrangedash 108}
+    \field{title}{{Node Weighted Scheduling}}
+    \list{location}{1}{%
+      {Seattle, WA, USA}%
+    }
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Asratian_BipartiteGraphs_1998}{book}{}
+    \name{author}{3}{}{%
+      {{hash=AAS}{%
+         family={Asratian},
+         familyi={A\bibinitperiod},
+         given={Armen\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=DTMJ}{%
+         family={Denley},
+         familyi={D\bibinitperiod},
+         given={Tristan M.\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={H\"{a}ggkvist},
+         familyi={H\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{AASDTMJHR1}
+    \strng{fullhash}{AASDTMJHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{052159345X}
+    \field{title}{{Bipartite Graphs and Their Applications}}
+    \list{location}{1}{%
+      {USA}%
+    }
+    \field{year}{1998}
+  \endentry
+
+  \entry{Mekkittikul98stability}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MA}{%
+         family={Mekkittikul},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MAMN1}
+    \strng{fullhash}{MAMN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \field{issn}{0743-166X}
+    \field{pages}{792\bibrangedash 799 vol.2}
+    \field{title}{{A Practical Scheduling Algorithm to Achieve 100\% Throughput
+  in Input-Queued Switches}}
+    \field{year}{1998}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Tassiulas1998}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=TL}{%
+         family={Tassiulas},
+         familyi={T\bibinitperiod},
+         given={Leandros},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TL1}
+    \strng{fullhash}{TL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE INFOCOM}
+    \field{pages}{533\bibrangedash 539}
+    \field{title}{Linear complexity algorithms for maximum throughput in radio
+  networks and input queued switches}
+    \list{location}{1}{%
+      {San Francisco, CA, USA}%
+    }
+    \field{year}{1998}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Birkhoff46Doubly}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BG}{%
+         family={Birkhoff},
+         familyi={B\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BG1}
+    \strng{fullhash}{BG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{147\bibrangedash 151}
+    \field{title}{Tres observaciones sobre el algebra lineal}
+    \field{volume}{5}
+    \field{journaltitle}{Univ. Nac. Tucum\'{a}n Rev. Ser. A}
+    \field{year}{1946}
+  \endentry
+
+  \entry{vonNeumann53TwoPerson}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NJv}{%
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima {von}},
+         giveni={J\bibinitperiod\bibinitdelim v\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJv1}
+    \strng{fullhash}{NJv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{5\bibrangedash 12}
+    \field{title}{A certain zero-sum two-person game equivalent to the optimal
+  assignment problem}
+    \field{volume}{2}
+    \field{journaltitle}{Contributions to the Theory of Games}
+    \field{year}{1953}
+  \endentry
+
+  \entry{olkin2016birkhoff}{book}{}
+    \name{author}{2}{}{%
+      {{hash=OI}{%
+         family={Olkin},
+         familyi={O\bibinitperiod},
+         given={Ingram},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=MAW}{%
+         family={Marshall},
+         familyi={M\bibinitperiod},
+         given={Albert\bibnamedelima W},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academic press}%
+    }
+    \strng{namehash}{OIMAW1}
+    \strng{fullhash}{OIMAW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Inequalities: theory of majorization and its applications}
+    \field{year}{2016}
+  \endentry
+
+  \entry{GongLiuYangEtAl2018}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GL}{%
+         family={{Gong}},
+         familyi={G\bibinitperiod},
+         given={Long},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={{Liu}},
+         familyi={L\bibinitperiod},
+         given={Liang},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YS}{%
+         family={{Yang}},
+         familyi={Y\bibinitperiod},
+         given={Sen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={{Xu}},
+         familyi={X\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={{Xie}},
+         familyi={X\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={{Wang}},
+         familyi={W\bibinitperiod},
+         given={Xinbing},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \keyw{Computer Science - Performance, Computer Science - Distributed,
+  Parallel, and Cluster Computing}
+    \strng{namehash}{GLLLYSXJXYWX1}
+    \strng{fullhash}{GLLLYSXJXYWX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1710.07234
+    \endverb
+    \field{title}{SERENADE: A Parallel Randomized Algorithm Suite for Crossbar
+  Scheduling in Input-Queued Switches}
+    \field{journaltitle}{ArXiv e-prints}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.PF}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{GongTuneLiuEtAl2017QPS}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GL}{%
+         family={Gong},
+         familyi={G\bibinitperiod},
+         given={Long},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tune},
+         familyi={T\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Liang},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YS}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Sen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XJJ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Jun\bibnamedelima (Jim)},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \keyw{crossbar scheduling, input-queued switch, matching,
+  queue-proportional sampling}
+    \strng{namehash}{GLTPLLYSXJJ1}
+    \strng{fullhash}{GLTPLLYSXJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/3084440
+    \endverb
+    \field{issn}{2476-1249}
+    \field{number}{1}
+    \field{pages}{3:1\bibrangedash 3:33}
+    \field{title}{{Queue-Proportional Sampling: A Better Approach to Crossbar
+  Scheduling for Input-Queued Switches}}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/3084440
+    \endverb
+    \field{volume}{1}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{Proc. ACM Meas. Anal. Comput. Syst.}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Gong_QPSrCost_2019}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GL}{%
+         family={Gong},
+         familyi={G\bibinitperiod},
+         given={Long},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Liang},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MST}{%
+         family={Maguluri},
+         familyi={M\bibinitperiod},
+         given={Siva\bibnamedelima Theja},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GLXJLLMST1}
+    \strng{fullhash}{GLXJLLMST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1905.05392
+    \endverb
+    \field{title}{QPS-r: {A} Cost-Effective Crossbar Scheduling Algorithm and
+  Its Stability and Delay Analysis}
+    \verb{url}
+    \verb http://arxiv.org/abs/1905.05392
+    \endverb
+    \field{volume}{abs/1905.05392}
+    \field{journaltitle}{CoRR}
+    \field{eprinttype}{arXiv}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Anderson1993PIM}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ATE}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={Thomas\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=OSS}{%
+         family={Owicki},
+         familyi={O\bibinitperiod},
+         given={Susan\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SJB}{%
+         family={Saxe},
+         familyi={S\bibinitperiod},
+         given={James\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=TCP}{%
+         family={Thacker},
+         familyi={T\bibinitperiod},
+         given={Charles\bibnamedelima P.},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ATEOSSSJBTCP1}
+    \strng{fullhash}{ATEOSSSJBTCP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issn}{0734-2071}
+    \field{number}{4}
+    \field{pages}{319\bibrangedash 352}
+    \field{title}{High-speed Switch Scheduling for Local-area Networks}
+    \field{volume}{11}
+    \field{journaltitle}{ACM Trans. Comput. Syst.}
+    \field{year}{1993}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hu2016IterSched}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HB}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=YKL}{%
+         family={Yeung},
+         familyi={Y\bibinitperiod},
+         given={K.\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=ZQ}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Internet;queueing theory;telecommunication
+  scheduling;telecommunication switching;telecommunication
+  traffic;RR-LQF-1;RR-LQF-N;VOQ;input-queued switches;packet arrival;packet
+  sending;round robin with longest queue first;single-bit-single-iteration
+  scheduling algorithms;traffic pattern;virtual output queuing;100%
+  throughput;Input-queued switch;iterative scheduling algorithm}
+    \strng{namehash}{HBYKLZQHC1}
+    \strng{fullhash}{HBYKLZQHC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TNET.2016.2541161
+    \endverb
+    \field{issn}{1063-6692}
+    \field{number}{6}
+    \field{pages}{3565\bibrangedash 3577}
+    \field{title}{{On Iterative Scheduling for Input-Queued Switches With a
+  Speedup of $2-1/N$}}
+    \field{volume}{24}
+    \field{journaltitle}{IEEE/ACM Trans. Netw.}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Eryilmaz2001QPS}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=EA}{%
+         family={Eryilmaz},
+         familyi={E\bibinitperiod},
+         given={Atilla},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Srikant},
+         familyi={S\bibinitperiod},
+         given={Rayadurgam},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PJR}{%
+         family={Perkins},
+         familyi={P\bibinitperiod},
+         given={James\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EASRPJR1}
+    \strng{fullhash}{EASRPJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In this paper, we consider a degraded Gaussian broadcast channel, where the
+  transmitter maintains separate queues for each receiver. We present
+  throughput optimal policies that stabilize the queues without knowing the
+  statistics of the arrival processes to these queues.%
+    }
+    \field{booktitle}{Proceedings of ITCom (Modeling and Design of Wireless
+  Networks)}
+    \verb{doi}
+    \verb 10.1117/12.434468
+    \endverb
+    \field{title}{Throughput-optimal scheduling for broadcast channels}
+    \verb{url}
+    \verb http://dx.doi.org/10.1117/12.434468
+    \endverb
+    \list{location}{1}{%
+      {Denver, CO}%
+    }
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{GiacconePrabhakarShah2003}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GP}{%
+         family={Giaccone},
+         familyi={G\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Prabhakar},
+         familyi={P\bibinitperiod},
+         given={Balaji},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GPPBSD1}
+    \strng{fullhash}{GPPBSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{546\bibrangedash 559}
+    \field{title}{Randomized scheduling algorithms for high-aggregate bandwidth
+  switches}
+    \field{volume}{21}
+    \field{journaltitle}{IEEE Journal on Selected Areas in Communications}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Gong2017QPS}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GL}{%
+         family={Gong},
+         familyi={G\bibinitperiod},
+         given={Long},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tune},
+         familyi={T\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Liang},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YS}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Sen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XJJ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Jun\bibnamedelima (Jim)},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{input-queued switch, crossbar scheduling, matching,
+  queue-proportional sampling}
+    \strng{namehash}{GLTPLLYSXJJ1}
+    \strng{fullhash}{GLTPLLYSXJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \verb{doi}
+    \verb 10.1145/3084440
+    \endverb
+    \field{issn}{2476-1249}
+    \field{number}{1}
+    \field{pages}{3:1\bibrangedash 3:33}
+    \field{shorttitle}{Queue-Proportional Sampling}
+    \field{title}{{Queue-Proportional Sampling: A Better Approach to Crossbar
+  Scheduling for Input-Queued Switches}}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/3084440
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{Proceedings of the ACM on Measurement and Analysis of
+  Computing Systems - SIGMETRICS}
+    \field{month}{06}
+    \field{year}{2017}
+    \field{urlday}{15}
+    \field{urlmonth}{01}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{cisco1200}{online}{}
+    \field{labeltitlesource}{title}
+    \field{note}{Accessed: 2018-03-21}
+    \field{title}{{Cisco 12000 Series Internet Router Architecture: Switch
+  Fabric}}
+    \verb{url}
+    \verb https://bit.ly/2VWxt3l
+    \endverb
+  \endentry
+
+  \entry{Neely2008DelayMM}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=NMJ}{%
+         family={Neely},
+         familyi={N\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Markov processes;queueing theory;radio
+  networks;scheduling;telecommunication traffic;delay analysis;finite state
+  Markov chain;maximal scheduling algorithm;one-hop wireless network
+  traffic;queueing network;Delay;Interference constraints;Markov
+  processes;Packet switching;Scheduling algorithm;Telecommunication
+  traffic;Throughput;Traffic control;Transmitters;Wireless networks}
+    \strng{namehash}{NMJ1}
+    \strng{fullhash}{NMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE INFOCOM}
+    \verb{doi}
+    \verb 10.1109/INFOCOM.2008.10
+    \endverb
+    \field{issn}{0743-166X}
+    \field{title}{{Delay Analysis for Maximal Scheduling in Wireless Networks
+  with Bursty Traffic}}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Neely2009MMDelay}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NMJ}{%
+         family={Neely},
+         familyi={N\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Markov processes;delays;queueing theory;radio
+  networks;telecommunication traffic;delay analysis;flow control;independent
+  finite state Markov chains;one-hop networks;queueing networks;traffic
+  streams;wireless networks;Flow control;Markov chains;queueing analysis}
+    \strng{namehash}{NMJ1}
+    \strng{fullhash}{NMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TNET.2008.2008232
+    \endverb
+    \field{issn}{1063-6692}
+    \field{number}{4}
+    \field{pages}{1146\bibrangedash 1159}
+    \field{title}{{Delay Analysis for Maximal Scheduling With Flow Control in
+  Wireless Networks With Bursty Traffic}}
+    \field{volume}{17}
+    \field{journaltitle}{IEEE/ACM Trans. Netw.}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Dai00Speedup}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=DJ}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Jim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Prabhakar},
+         familyi={P\bibinitperiod},
+         given={Balaji},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJPB1}
+    \strng{fullhash}{DJPB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \field{pages}{556\bibrangedash 564}
+    \field{title}{The throughput of data switches with and without speedup}
+    \list{location}{1}{%
+      {Tel Aviv, Israel}%
+    }
+    \field{year}{2000}
+    \warn{\item Can't use 'location' + 'address' \item Invalid format of field
+  'month'}
+  \endentry
+
+  \entry{EdmondsKarp1972}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EJ}{%
+         family={Edmonds},
+         familyi={E\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KRM}{%
+         family={Karp},
+         familyi={K\bibinitperiod},
+         given={Richard\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{EJKRM1}
+    \strng{fullhash}{EJKRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/321694.321699
+    \endverb
+    \field{issn}{0004-5411}
+    \field{number}{2}
+    \field{pages}{248\bibrangedash 264}
+    \field{title}{{Theoretical Improvements in Algorithmic Efficiency for
+  Network Flow Problems}}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/321694.321699
+    \endverb
+    \field{volume}{19}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{J. ACM}
+    \field{year}{1972}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Fayyazi04ParallelMWM}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=FM}{%
+         family={Fayyazi},
+         familyi={F\bibinitperiod},
+         given={Morteza},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kaeli},
+         familyi={K\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MW}{%
+         family={Meleis},
+         familyi={M\bibinitperiod},
+         given={Waleed},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FMKDMW1}
+    \strng{fullhash}{FMKDMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the {IEEE IPDPS}}
+    \field{pages}{4\bibrangedash 11}
+    \field{title}{{Parallel Maximum Weight Bipartite Matching Algorithms for
+  Scheduling in Input-Queued Switches}}
+    \list{location}{1}{%
+      {New Mexico, USA}%
+    }
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{BayatiPrabhakarShahEtAl2007Iterative}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=BM}{%
+         family={Bayati},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Prabhakar},
+         familyi={P\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMPBSDSM1}
+    \strng{fullhash}{BMPBSDSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \verb{doi}
+    \verb 10.1109/INFCOM.2007.59
+    \endverb
+    \field{pages}{445\bibrangedash 453}
+    \field{title}{{Iterative Scheduling Algorithms}}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{BayatiShahSharma2008MWMMaxProduct}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BM}{%
+         family={Bayati},
+         familyi={B\bibinitperiod},
+         given={Mohsen},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMSDSM1}
+    \strng{fullhash}{BMSDSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TIT.2007.915695
+    \endverb
+    \field{issn}{0018-9448}
+    \field{number}{3}
+    \field{pages}{1241\bibrangedash 1251}
+    \field{title}{Max-Product for Maximum Weight Matching: Convergence,
+  Correctness, and LP Duality}
+    \field{volume}{54}
+    \field{journaltitle}{{IEEE} Trans. Inf. Theory}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{AtallaCudaGiacconeEtAl2013BPAssist}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AS}{%
+         family={Atalla},
+         familyi={A\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cuda},
+         familyi={C\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Giaccone},
+         familyi={G\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pretti},
+         familyi={P\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASCDGPPM1}
+    \strng{fullhash}{ASCDGPPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TC.2012.198
+    \endverb
+    \field{issn}{0018-9340}
+    \field{number}{10}
+    \field{pages}{2101\bibrangedash 2107}
+    \field{title}{{Belief-Propagation-Assisted Scheduling in Input-Queued
+  Switches}}
+    \field{volume}{62}
+    \field{journaltitle}{{IEEE} Trans. Comput.}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{McKeown1995iLQF}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=MN}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MN1}
+    \strng{fullhash}{MN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Scheduling Algorithms for Input-Queued Cell Switches}
+    \list{institution}{1}{%
+      {University of California at Berkeley}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{1995}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Keslassy01MWMalpha}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=KI}{%
+         family={Keslassy},
+         familyi={K\bibinitperiod},
+         given={Isaac},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KIMN1}
+    \strng{fullhash}{KIMN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the Allerton Conference on Communication,
+  Control and Computing}
+    \field{title}{Analysis of scheduling algorithms that provide 100\%
+  throughput in input-queued switches}
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ShahWischik2006MWM0}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wischik},
+         familyi={W\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDWD1}
+    \strng{fullhash}{SDWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \verb{doi}
+    \verb 10.1109/INFOCOM.2006.238
+    \endverb
+    \field{issn}{0743-166X}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{{Optimal Scheduling Algorithms for Input-Queued Switches}}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ShahGiacconePrabhakar2002serena}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Giaccone},
+         familyi={G\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Prabhakar},
+         familyi={P\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDGPPB1}
+    \strng{fullhash}{SDGPPB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/40.988685
+    \endverb
+    \field{issn}{0272-1732}
+    \field{number}{1}
+    \field{pages}{10\bibrangedash 18}
+    \field{title}{Efficient randomized algorithms for input-queued switch
+  scheduling}
+    \field{volume}{22}
+    \field{journaltitle}{IEEE Micro}
+    \field{year}{2002}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ye10Variable}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=YS}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Shunyuan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={Tanming},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Panwar},
+         familyi={P\bibinitperiod},
+         given={Shivendra},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YSSTPS1}
+    \strng{fullhash}{YSSTPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the 48th Annual Allerton Conference}
+    \field{pages}{1683\bibrangedash 1690}
+    \field{title}{{An $O(1)$ Scheduling Algorithm for Variable-Size Packet
+  Switching Systems}}
+    \list{location}{1}{%
+      {Illinois, USA}%
+    }
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{RajagopalanShahShin2009GD}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=RS}{%
+         family={Rajagopalan},
+         familyi={R\bibinitperiod},
+         given={Shreevatsa},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shin},
+         familyi={S\bibinitperiod},
+         given={Jinwoo},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \keyw{aloha, markov chain, mixing time, wireless multi-access}
+    \strng{namehash}{RSSDSJ1}
+    \strng{fullhash}{RSSDSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the Eleventh International Joint
+  Conference on Measurement and Modeling of Computer Systems}
+    \verb{doi}
+    \verb 10.1145/1555349.1555365
+    \endverb
+    \field{isbn}{978-1-60558-511-6}
+    \field{pages}{133\bibrangedash 144}
+    \field{series}{SIGMETRICS '09}
+    \field{title}{Network Adiabatic Theorem: An Efficient Randomized Protocol
+  for Contention Resolution}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/1555349.1555365
+    \endverb
+    \list{location}{1}{%
+      {Seattle, WA, USA}%
+    }
+    \field{year}{2009}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{GhaderiSrikant2010}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=GJ}{%
+         family={Ghaderi},
+         familyi={G\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Srikant},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{carrier sense multiple access;queueing theory;wireless channels;CSMA
+  algorithms;delay performance;link weights;queue length;throughput
+  optimality;wireless networks;Algorithm design and analysis;Heuristic
+  algorithms;Markov processes;Multiaccess
+  communication;Schedules;Throughput;Wireless networks}
+    \strng{namehash}{GJSR1}
+    \strng{fullhash}{GJSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{49th IEEE Conference on Decision and Control (CDC)}
+    \verb{doi}
+    \verb 10.1109/CDC.2010.5717965
+    \endverb
+    \field{issn}{0191-2216}
+    \field{pages}{954\bibrangedash 959}
+    \field{title}{On the design of efficient CSMA algorithms for wireless
+  networks}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ShahShin2012rand}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shin},
+         familyi={S\bibinitperiod},
+         given={Jinwoo},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Institute of Mathematical Statistics}%
+    }
+    \strng{namehash}{SDSJ1}
+    \strng{fullhash}{SDSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    There has recently been considerable interest in design of low-complexity,
+  myopic, distributed and stable scheduling algorithms for constrained queueing
+  network models that arise in the context of emerging communication networks.
+  Here we consider two representative models. One, a queueing network model
+  that captures randomly varying number of packets in the queues present at a
+  collection of wireless nodes communicating through a shared medium. Two, a
+  buffered circuit switched network model for an optical core of future
+  internet to capture the randomness in calls or flows present in the network.
+  The maximum weight scheduling algorithm proposed by Tassiulas and Ephremides
+  [IEEE Trans. Automat. Control 37 (1992) 1936-1948], leads to a myopic and
+  stable algorithm for the packet-level wireless network model. But
+  computationally it is expensive (NP-hard) and centralized. It is not
+  applicable to the buffered circuit switched network due to the requirement of
+  nonpreemption of the calls in the service. As the main contribution of this
+  paper, we present a stable scheduling algorithm for both of these models. The
+  algorithm is myopic, distributed and performs few logical operations at each
+  node per unit time.%
+    }
+    \field{issn}{10505164}
+    \field{number}{1}
+    \field{pages}{128\bibrangedash 171}
+    \field{title}{RANDOMIZED SCHEDULING ALGORITHM FOR QUEUEING NETWORKS}
+    \verb{url}
+    \verb http://www.jstor.org/stable/41408096
+    \endverb
+    \field{volume}{22}
+    \field{journaltitle}{The Annals of Applied Probability}
+    \field{year}{2012}
+  \endentry
+
+  \entry{NiTanSrikant2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=NJ}{%
+         family={Ni},
+         familyi={N\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Srikant},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{ad hoc networks;carrier sense multiple access;delays;queueing
+  theory;scheduling;statistical analysis;Glauber dynamics;Q-CSMA;ad hoc
+  wireless networks;carrier-sense multiple access type random access
+  algorithms;collision-free transmission scheduling;continuous-time CSMA
+  protocol;delay performance;discrete-time distributed randomized
+  algorithm;greedy maximal scheduling;queue-length-based CSMA/CA
+  algorithms;statistical physics;Algorithm design and
+  analysis;Delay;Multiaccess communication;Schedules;Scheduling
+  algorithm;Throughput;Wireless networks;Carrier-sense multiple access
+  (CSMA);random access;scheduling algorithms;wireless networks}
+    \strng{namehash}{NJTBSR1}
+    \strng{fullhash}{NJTBSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TNET.2011.2177101
+    \endverb
+    \field{issn}{1063-6692}
+    \field{number}{3}
+    \field{pages}{825\bibrangedash 836}
+    \field{title}{Q-CSMA: Queue-Length-Based CSMA/CA Algorithms for Achieving
+  Maximum Throughput and Low Delay in Wireless Networks}
+    \field{volume}{20}
+    \field{journaltitle}{IEEE/ACM Transactions on Networking}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Vigoda2001GD}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VE}{%
+         family={Vigoda},
+         familyi={V\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VE1}
+    \strng{fullhash}{VE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{A note on the Glauber dynamics for sampling independent sets}
+    \field{volume}{8}
+    \field{journaltitle}{Electronic Journal of Combinatorics}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Hu_HighestRankFirst_2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HB}{%
+         family={{Hu}},
+         familyi={H\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FF}{%
+         family={{Fan}},
+         familyi={F\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=YKL}{%
+         family={{Yeung}},
+         familyi={Y\bibinitperiod},
+         given={K.\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={{Jamin}},
+         familyi={J\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HBFFYKLJS1}
+    \strng{fullhash}{HBFFYKLJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{11046\bibrangedash 11062}
+    \field{title}{{Highest Rank First: A New Class of Single-Iteration
+  Scheduling Algorithms for Input-Queued Switches}}
+    \field{volume}{6}
+    \field{journaltitle}{{IEEE Access}}
+    \field{year}{2018}
+  \endentry
+
+  \entry{YihanLi_drr_2001}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=Y}{%
+         family={{Yihan Li}},
+         familyi={Y\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={{Panwar}},
+         familyi={P\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CHJ}{%
+         family={{Chao}},
+         familyi={C\bibinitperiod},
+         given={H.\bibnamedelima J.},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{packet switching;telecommunication traffic;queueing
+  theory;scheduling;dual round-robin switch;dual round-robin matching
+  switch;DRRM matching scheme;scalable architecture;low complexity
+  architecture;aggregate bandwidth;CMOS technology;DRRM switch;throughput
+  performance;uniform traffic;i.i.d. traffic;iSLIP switch;delay
+  performance;hot-spot throughput;nonuniform traffic;virtual output queueing
+  switch;Switches;Throughput;Traffic control;Chaos;Iterative algorithms;CMOS
+  technology;Delay;Fabrics;Telecommunication switching;Aggregates}
+    \strng{namehash}{YPSCHJ1}
+    \strng{fullhash}{YPSCHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE INFOCOM}
+    \field{pages}{1688\bibrangedash 1697 vol. 3}
+    \field{title}{{On The Performance of A Dual Round-Robin Switch}}
+    \list{location}{1}{%
+      {Anchorage, AK, USA}%
+    }
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{McKeown_iLQF_1995}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=MNW}{%
+         family={McKeown},
+         familyi={M\bibinitperiod},
+         given={Nicholas\bibnamedelima William},
+         giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of California at Berkeley}%
+    }
+    \strng{namehash}{MNW1}
+    \strng{fullhash}{MNW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{UMI Order No. GAX96-02658}
+    \field{title}{{Scheduling Algorithms for Input-queued Cell Switches}}
+    \list{location}{1}{%
+      {Berkeley, CA, USA}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{1995}
+  \endentry
+
+  \entry{Scicchitano_ssr_2007}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=SA}{%
+         family={{Scicchitano}},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={{Bianco}},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={{Giaccone}},
+         familyi={G\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={{Leonardi}},
+         familyi={L\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={{Schiattarella}},
+         familyi={S\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \keyw{queueing theory;scheduling;switches;distributed scheduling;input
+  queued switches;round trip time;distributed multichip scheduler
+  implementation;hardware complexity;monolithic implementation;information
+  exchange;multichip implementation;inter-chip latency;scheduling
+  algorithm;synchronous round robin;Switches;Scheduling
+  algorithm;Delay;Computer architecture;Round robin;Fabrics;Communications
+  Society;Communication switching;System buses;USA Councils}
+    \strng{namehash}{SABAGPLESE1}
+    \strng{fullhash}{SABAGPLESE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE ICC}
+    \field{pages}{6330\bibrangedash 6335}
+    \field{title}{{Distributed Scheduling in Input Queued Switches}}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Lin_SelectiveRequestRound_2011}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=LD}{%
+         family={{Lin}},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JY}{%
+         family={{Jiang}},
+         familyi={J\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={{Hamdi}},
+         familyi={H\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LDJYHM1}
+    \strng{fullhash}{LDJYHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE ICC}
+    \field{pages}{1\bibrangedash 5}
+    \field{title}{{Selective-Request Round-Robin Scheduling for VOQ Packet
+  Switch Architecture}}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Aggarwal2003EdgeColoring}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=AG}{%
+         family={Aggarwal},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Motwani},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={An},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AGMRSDZA1}
+    \strng{fullhash}{AGMRSDZA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE FOCS}
+    \verb{doi}
+    \verb 10.1109/SFCS.2003.1238223
+    \endverb
+    \field{issn}{0272-5428}
+    \field{pages}{502\bibrangedash 512}
+    \field{title}{{Switch Scheduling via Randomized Edge Coloring}}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Neely2007FrameBased}{article}{}
+    \name{author}{3}{}{%
+      {{hash=NMJ}{%
+         family={Neely},
+         familyi={N\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Modiano},
+         familyi={M\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CYS}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Y.\bibnamedelima S.},
+         giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NMJMECYS1}
+    \strng{fullhash}{NMJMECYS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TNET.2007.893876
+    \endverb
+    \field{issn}{1063-6692}
+    \field{number}{3}
+    \field{pages}{657\bibrangedash 668}
+    \field{title}{{Logarithmic Delay for N $\times$ N Packet Switches Under the
+  Crossbar Constraint}}
+    \field{volume}{15}
+    \field{journaltitle}{IEEE/ACM Trans. Netw.}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Li2008framebased}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=EI}{%
+         family={Elhanany},
+         familyi={E\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{Internet;computer network management;computer network
+  reliability;queueing theory;telecommunication network
+  routing;telecommunication traffic;Internet routers;computational
+  complexity;frame-based oldest-cell-first maximal weight matching
+  algorithm;scheduling decision;Algorithm design and analysis;Computational
+  complexity;Delay;Processor scheduling;Scalability;Scheduling
+  algorithm;Stability;Switches;Timing;Traffic control}
+    \strng{namehash}{LXEI1}
+    \strng{fullhash}{LXEI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TCOMM.2008.050189
+    \endverb
+    \field{issn}{0090-6778}
+    \field{number}{1}
+    \field{pages}{21\bibrangedash 26}
+    \field{title}{{Stability of a Frame-Based Oldest-Cell-First Maximal Weight
+  Matching Algorithm}}
+    \field{volume}{56}
+    \field{journaltitle}{IEEE Trans. Commun.}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Wang2016ParallelEdgeColoring}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Lingkang},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YT}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Tong},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LTT}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Tony\bibnamedelima T.},
+         giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Weisheng},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WLYTLTTHW1}
+    \strng{fullhash}{WLYTLTTHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1606.07226
+    \endverb
+    \field{title}{{Parallel Scheduling Algorithm based on Complex Coloring for
+  Input-Queued Switches}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1606.07226
+    \endverb
+    \field{journaltitle}{ArXiv e-prints}
+    \field{eprinttype}{arXiv}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Wang2018ParallelEdgeColoring}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YT}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \keyw{Packet Switching;complex coloring;edge coloring;matching;scheduling}
+    \strng{namehash}{WLYTLTHW1}
+    \strng{fullhash}{WLYTLTHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TPDS.2018.2802523
+    \endverb
+    \field{issn}{1045-9219}
+    \field{number}{7}
+    \field{pages}{1456\bibrangedash 1468}
+    \field{title}{{A Parallel Complex Coloring Algorithm for Scheduling of
+  Input-Queued Switches}}
+    \field{volume}{29}
+    \field{journaltitle}{IEEE Trans. Parallel Distrib. Syst.}
+    \field{year}{2018}
+  \endentry
+
+  \entry{rojas2007frame}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RCR}{%
+         family={Rojas-Cessa},
+         familyi={R\bibinithyphendelim C\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{RCRLC1}
+    \strng{fullhash}{RCRLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{2149\bibrangedash 2161}
+    \field{title}{{Captured-frame Matching Schemes for Scalable Input-queued
+  Packet Switches}}
+    \field{volume}{30}
+    \field{journaltitle}{Computer communications}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Seong2006QPS.ICC}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SK}{%
+         family={Seong},
+         familyi={S\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Narasimhan},
+         familyi={N\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CJM}{%
+         family={Cioffi},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{Broadcasting;Delay;Downlink;Optimal scheduling;Queueing
+  analysis;Resource management;Scheduling algorithm;Telecommunication
+  traffic;Throughput;Traffic control}
+    \strng{namehash}{SKNRCJM1}
+    \strng{fullhash}{SKNRCJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2006 IEEE International Conference on Communications}
+    \verb{doi}
+    \verb 10.1109/ICC.2006.254955
+    \endverb
+    \field{issn}{1550-3607}
+    \field{pages}{1647\bibrangedash 1652}
+    \field{title}{Queue Proportional Scheduling in Gaussian Broadcast Channels}
+    \field{volume}{4}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Seong2006QPS.JSAC}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SK}{%
+         family={Seong},
+         familyi={S\bibinitperiod},
+         given={Kibeom},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Narasimhan},
+         familyi={N\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CJM}{%
+         family={Cioffi},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{OFDM modulation;broadcast channels;channel capacity;delays;fading
+  channels;geometric programming;queueing theory;scheduling;GP formulation;OFDM
+  system;QPS;channel capacity;data rate vector;fading broadcast
+  channel;geometric programming;orthogonal frequency-division
+  multiplexing;queue proportional scheduling;queueing delay;Broadcast channels
+  (BC);channel capacity;convex optimization;cross-layer resource
+  allocation;fairness;geometric programming (GP);orthogonal frequency-division
+  multiplexing (OFDM);queueing analysis;queueing delay;scheduling}
+    \strng{namehash}{SKNRCJM2}
+    \strng{fullhash}{SKNRCJM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/JSAC.2006.879404
+    \endverb
+    \field{issn}{0733-8716}
+    \field{number}{8}
+    \field{pages}{1593\bibrangedash 1602}
+    \field{title}{Queue proportional scheduling via geometric programming in
+  fading broadcast channels}
+    \field{volume}{24}
+    \field{journaltitle}{IEEE Journal on Selected Areas in Communications}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{LiSrikant2015}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=LB}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Bin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Srikant},
+         familyi={S\bibinitperiod},
+         given={Rayadurgam},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LBSR1}
+    \strng{fullhash}{LBSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the ACM SIGMETRICS}
+    \verb{doi}
+    \verb 10.1145/2745844.2745864
+    \endverb
+    \field{isbn}{978-1-4503-3486-0}
+    \field{pages}{97\bibrangedash 108}
+    \field{title}{Queue-Proportional Rate Allocation with Per-Link Information
+  in Multihop Networks}
+    \list{location}{1}{%
+      {Portland, OR, USA}%
+    }
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Walton2014}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=WN}{%
+         family={Walton},
+         familyi={W\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WN1}
+    \strng{fullhash}{WN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the ACM SIGMETRICS}
+    \verb{doi}
+    \verb 10.1145/2591971.2591987
+    \endverb
+    \field{isbn}{978-1-4503-2789-3}
+    \field{pages}{139\bibrangedash 151}
+    \field{title}{Concave Switching in Single and Multihop Networks}
+    \list{location}{1}{%
+      {Austin, Texas, USA}%
+    }
+    \field{year}{2014}
+    \warn{\item Can't use 'location' + 'address' \item Invalid format of field
+  'month'}
+  \endentry
+
+  \entry{ModianoShahZussman2006DistSched}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ME}{%
+         family={Modiano},
+         familyi={M\bibinitperiod},
+         given={Eytan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zussman},
+         familyi={Z\bibinitperiod},
+         given={Gil},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{distributed algorithms, gossip algorithms, matching, scheduling,
+  stability, wireless networks}
+    \strng{namehash}{MESDZG1}
+    \strng{fullhash}{MESDZG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the Joint International Conference on
+  Measurement and Modeling of Computer Systems}
+    \verb{doi}
+    \verb 10.1145/1140277.1140283
+    \endverb
+    \field{isbn}{1-59593-319-0}
+    \field{pages}{27\bibrangedash 38}
+    \field{title}{{Maximizing Throughput in Wireless Networks via Gossiping}}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/1140277.1140283
+    \endverb
+    \list{location}{1}{%
+      {Saint Malo, France}%
+    }
+    \field{year}{2006}
+  \endentry
+
+  \entry{Lin2005DistSched}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=LX}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Xiaojun},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=SNB}{%
+         family={Shroff},
+         familyi={S\bibinitperiod},
+         given={N.\bibnamedelima B.},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \keyw{distributed algorithms;queueing theory;radio networks;radiofrequency
+  interference;scheduling;telecommunication control;cross-layer rate
+  control;cross-layered rate control scheme;distributed cross-layered rate
+  control;global optimization problem;imperfect scheduling;mathematical
+  optimization;mathematical programming;multihop wireless network;queueing
+  theory;rate allocation;rate control;restrictive interference model;Algorithm
+  design and analysis;Control systems;Cross layer design;Distributed
+  control;Dynamic scheduling;Optimal control;Processor scheduling;Resource
+  management;Spread spectrum communication;Wireless networks}
+    \strng{namehash}{LXSNB1}
+    \strng{fullhash}{LXSNB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \verb{doi}
+    \verb 10.1109/INFCOM.2005.1498460
+    \endverb
+    \field{issn}{0743-166X}
+    \field{pages}{1804\bibrangedash 1814 vol. 3}
+    \field{title}{{The Impact of Imperfect Scheduling on Cross-Layer Rate
+  Control in Wireless Networks}}
+    \field{volume}{3}
+    \field{year}{2005}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Chen2006DistSched}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LSH}{%
+         family={Low},
+         familyi={L\bibinitperiod},
+         given={S.\bibnamedelima H.},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Chiang},
+         familyi={C\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DJC}{%
+         family={Doyle},
+         familyi={D\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Interference constraints;Mobile ad hoc networks;Network
+  servers;Optimal control;Optimal scheduling;Resource
+  management;Routing;Stability;Time-varying channels;Wireless networks}
+    \strng{namehash}{CLLSHCMDJC1}
+    \strng{fullhash}{CLLSHCMDJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \verb{doi}
+    \verb 10.1109/INFOCOM.2006.142
+    \endverb
+    \field{issn}{0743-166X}
+    \field{pages}{1\bibrangedash 13}
+    \field{title}{{Cross-Layer Congestion Control, Routing and Scheduling
+  Design in Ad Hoc Wireless Networks}}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Chaporkar2008DistSched}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CP}{%
+         family={Chaporkar},
+         familyi={C\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kar},
+         familyi={K\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sarkar},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{optimisation;radio networks;scheduling;telecommunication network
+  topology;distributed scheduling;end-to-end multihop session;interference
+  degree;network topology;throughput guarantees;wireless network;Centralized
+  control;Communication system control;Interference constraints;Mobile
+  communication;Network topology;Processor scheduling;Radio spectrum
+  management;Systems engineering and theory;Throughput;Wireless
+  networks;Fairness guarantees;maximal scheduling;throughput
+  guarantees;wireless networks}
+    \strng{namehash}{CPKKLXSS1}
+    \strng{fullhash}{CPKKLXSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TIT.2007.913537
+    \endverb
+    \field{issn}{0018-9448}
+    \field{number}{2}
+    \field{pages}{572\bibrangedash 594}
+    \field{title}{Throughput and Fairness Guarantees Through Maximal Scheduling
+  in Wireless Networks}
+    \field{volume}{54}
+    \field{journaltitle}{{IEEE} Trans. Inf. Theory}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Gupta2009DistSched}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GA}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Srikant},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{computational complexity;queueing theory;radio
+  networks;scheduling;telecommunication network topology;low-complexity
+  distributed scheduling algorithms;network topology;queue-length
+  information;wireless networks;Low-complexity and distributed
+  algorithms;maximal scheduling;provable efficiency ratios;wireless scheduling
+  algorithms}
+    \strng{namehash}{GALXSR1}
+    \strng{fullhash}{GALXSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TNET.2009.2021609
+    \endverb
+    \field{issn}{1063-6692}
+    \field{number}{6}
+    \field{pages}{1846\bibrangedash 1859}
+    \field{title}{{Low-Complexity Distributed Scheduling Algorithms for
+  Wireless Networks}}
+    \field{volume}{17}
+    \field{journaltitle}{{IEEE/ACM} Trans. Netw.}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ji2013DistSched}{article}{}
+    \name{author}{3}{}{%
+      {{hash=JB}{%
+         family={Ji},
+         familyi={J\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=JC}{%
+         family={Joo},
+         familyi={J\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SNB}{%
+         family={Shroff},
+         familyi={S\bibinitperiod},
+         given={N.\bibnamedelima B.},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \keyw{queueing theory;radio networks;resource allocation;scheduling;delay
+  metric;delay-based back-pressure scheduling scheme;multihop wireless
+  networks;optimal throughput performance;packet arrivals;packet
+  problem;queue-length-based schemes;resource allocation
+  mechanism;Delay;Mathematical model;Schedules;Spread spectrum
+  communication;Throughput;Vectors;Wireless networks;Back-pressure;Lyapunov
+  approach;delay-based;fluid limit;scheduling;throughput-optimal}
+    \strng{namehash}{JBJCSNB1}
+    \strng{fullhash}{JBJCSNB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TNET.2012.2227790
+    \endverb
+    \field{issn}{1063-6692}
+    \field{number}{5}
+    \field{pages}{1539\bibrangedash 1552}
+    \field{title}{{Delay-Based Back-Pressure Scheduling in Multihop Wireless
+  Networks}}
+    \field{volume}{21}
+    \field{journaltitle}{{IEEE/ACM} Trans. Netw.}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{IsraelItai1986DistMaximalMatching}{article}{}
+    \name{author}{2}{}{%
+      {{hash=IA}{%
+         family={Israel},
+         familyi={I\bibinitperiod},
+         given={Amos},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=IA}{%
+         family={Itai},
+         familyi={I\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier North-Holland, Inc.}%
+    }
+    \strng{namehash}{IAIA1}
+    \strng{fullhash}{IAIA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/0020-0190(86)90144-4
+    \endverb
+    \field{issn}{0020-0190}
+    \field{number}{2}
+    \field{pages}{77\bibrangedash 80}
+    \field{title}{{A Fast and Simple Randomized Parallel Algorithm for Maximal
+  Matching}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1016/0020-0190(86)90144-4
+    \endverb
+    \field{volume}{22}
+    \list{location}{1}{%
+      {Amsterdam, The Netherlands, The Netherlands}%
+    }
+    \field{journaltitle}{Inf. Process. Lett.}
+    \field{month}{02}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Hoepman2004DistAppMWM}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJH}{%
+         family={Hoepman},
+         familyi={H\bibinitperiod},
+         given={Jaap-Henk},
+         giveni={J\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Distributed, Parallel, and Cluster Computing, Discrete Mathematics}
+    \strng{namehash}{HJH1}
+    \strng{fullhash}{HJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb cs/0410047
+    \endverb
+    \field{title}{{Simple Distributed Weighted Matchings}}
+    \field{journaltitle}{ArXiv e-prints}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Preis1999AppMWM}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Preis},
+         familyi={P\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR2}
+    \strng{fullhash}{PR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the STACS}
+    \field{isbn}{3-540-65691-X}
+    \field{pages}{259\bibrangedash 269}
+    \field{title}{{Linear Time 1/2-Approximation Algorithm for Maximum Weighted
+  Matching in General Graphs}}
+    \verb{url}
+    \verb http://dl.acm.org/citation.cfm?id=1764891.1764924
+    \endverb
+    \list{location}{1}{%
+      {Trier, Germany}%
+    }
+    \field{year}{1999}
+  \endentry
+
+  \entry{BoydGhoshPrabhakarEtAl2005gossip}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=BS}{%
+         family={Boyd},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Ghosh},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Prabhakar},
+         familyi={P\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSGAPBSD1}
+    \strng{fullhash}{BSGAPBSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \verb{doi}
+    \verb 10.1109/INFCOM.2005.1498447
+    \endverb
+    \field{issn}{0743-166X}
+    \field{pages}{1653\bibrangedash 1664 vol. 3}
+    \field{title}{{Gossip Algorithms: Design, Analysis and Applications}}
+    \field{volume}{3}
+    \field{year}{2005}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ladner1980PrefixSum}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LRE}{%
+         family={Ladner},
+         familyi={L\bibinitperiod},
+         given={Richard\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=FMJ}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{LREFMJ1}
+    \strng{fullhash}{LREFMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/322217.322232
+    \endverb
+    \field{issn}{0004-5411}
+    \field{number}{4}
+    \field{pages}{831\bibrangedash 838}
+    \field{title}{{Parallel Prefix Computation}}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/322217.322232
+    \endverb
+    \field{volume}{27}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{J. ACM}
+    \field{year}{1980}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Lynch1996Distributed}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LNA}{%
+         family={Lynch},
+         familyi={L\bibinitperiod},
+         given={Nancy\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Morgan Kaufmann Publishers Inc.}%
+    }
+    \strng{namehash}{LNA1}
+    \strng{fullhash}{LNA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{1558603484}
+    \field{title}{Distributed Algorithms}
+    \list{location}{1}{%
+      {San Francisco, CA, USA}%
+    }
+    \field{year}{1996}
+  \endentry
+
+  \entry{Perlman2000:leaderelection}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Perlman},
+         familyi={P\bibinitperiod},
+         given={Radia},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley Longman Publishing Co., Inc.}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{0-201-63448-1}
+    \field{title}{Interconnections (2nd Ed.): Bridges, Routers, Switches, and
+  Internetworking Protocols}
+    \list{location}{1}{%
+      {Boston, MA, USA}%
+    }
+    \field{year}{2000}
+  \endentry
+
+  \entry{Goudreau00Shakeup}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GMW}{%
+         family={Goudreau},
+         familyi={G\bibinitperiod},
+         given={M.\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=KSG}{%
+         family={Kolliopoulos},
+         familyi={K\bibinitperiod},
+         given={S.\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RSB}{%
+         family={Rao},
+         familyi={R\bibinitperiod},
+         given={S.\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMWKSGRSB1}
+    \strng{fullhash}{GMWKSGRSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \field{pages}{1634\bibrangedash 1643 vol.3}
+    \field{title}{Scheduling algorithms for input-queued switches: randomized
+  techniques and experimental evaluation}
+    \field{year}{2000}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Shaf02DelayboundAppMWM}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kopikare},
+         familyi={K\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDKM1}
+    \strng{fullhash}{SDKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the IEEE INFOCOM}
+    \field{issn}{0743-166X}
+    \field{pages}{1024\bibrangedash 1031 vol.2}
+    \field{title}{Delay bounds for approximate maximum weight matching
+  algorithms for input queued switches}
+    \field{volume}{2}
+    \field{year}{2002}
+  \endentry
+
+  \entry{ModianoShahZussman2006gossiping}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ME}{%
+         family={Modiano},
+         familyi={M\bibinitperiod},
+         given={Eytan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zussman},
+         familyi={Z\bibinitperiod},
+         given={Gil},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \keyw{distributed algorithms, gossip algorithms, matching, scheduling,
+  stability, wireless networks}
+    \strng{namehash}{MESDZG1}
+    \strng{fullhash}{MESDZG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the Joint International Conference on
+  Measurement and Modeling of Computer Systems}
+    \verb{doi}
+    \verb 10.1145/1140277.1140283
+    \endverb
+    \field{isbn}{1-59593-319-0}
+    \field{pages}{27\bibrangedash 38}
+    \field{series}{SIGMETRICS '06/Performance '06}
+    \field{title}{Maximizing Throughput in Wireless Networks via Gossiping}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/1140277.1140283
+    \endverb
+    \list{location}{1}{%
+      {Saint Malo, France}%
+    }
+    \field{year}{2006}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{hdrhistograms}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://github.com/HdrHistogram/HdrHistogram}}
+    \field{title}{{HdrHistogram: A High Dynamic Range (HDR) Histogram}}
+  \endentry
+
+  \entry{GiacconePrabhakarShah2003SERENA}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GP}{%
+         family={Giaccone},
+         familyi={G\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Prabhakar},
+         familyi={P\bibinitperiod},
+         given={Balaji},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GPPBSD1}
+    \strng{fullhash}{GPPBSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{546\bibrangedash 559}
+    \field{title}{{Randomized Scheduling Algorithms for High-Aggregate
+  Bandwidth Switches}}
+    \field{volume}{21}
+    \field{journaltitle}{IEEE J. Sel. Areas Commun.}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{brucelecture2006}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HB}{%
+         family={Hajek},
+         familyi={H\bibinitperiod},
+         given={Bruce},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HB1}
+    \strng{fullhash}{HB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://bit.ly/1JtPGu0}}
+    \field{title}{Notes for ECE 467 Communication Network Analysis}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Flegal2010MCStopRule}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{2}{}{%
+      {{hash=FJM}{%
+         family={Flegal},
+         familyi={F\bibinitperiod},
+         given={James\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JGL}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Galin\bibnamedelima L},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Institute of Mathematical Statistics}%
+    }
+    \strng{namehash}{FJMJGL+1}
+    \strng{fullhash}{FJMJGL+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{1034\bibrangedash 1070}
+    \field{title}{{Batch means and spectral variance estimators in Markov chain
+  Monte Carlo}}
+    \field{volume}{38}
+    \field{journaltitle}{The Annals of Statistics}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Glynn1992MCStopRule}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{2}{}{%
+      {{hash=GPW}{%
+         family={Glynn},
+         familyi={G\bibinitperiod},
+         given={Peter\bibnamedelima W},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Whitt},
+         familyi={W\bibinitperiod},
+         given={Ward},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Institute of Mathematical Statistics}%
+    }
+    \strng{namehash}{GPWWW+1}
+    \strng{fullhash}{GPWWW+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{180\bibrangedash 198}
+    \field{title}{{The Asymptotic Validity of Sequential Stopping Rules for
+  Stochastic Simulations}}
+    \field{volume}{2}
+    \field{journaltitle}{Ann. Appl. Probab.}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Edelman2004ParallelPrefix}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=EA}{%
+         family={Edelman},
+         familyi={E\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EA1}
+    \strng{fullhash}{EA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+  \field{howpublished}{\url{http://courses.csail.mit.edu/18.337/2004/book/Lecture_03-Parallel_Prefix.pdf}}
+    \field{title}{Parallel Prefix}
+    \field{year}{2004}
+  \endentry
+
+  \entry{stein2008elementary}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SW}{%
+         family={Stein},
+         familyi={S\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science \& Business Media}%
+    }
+    \strng{namehash}{SW1}
+    \strng{fullhash}{SW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Elementary number theory: Primes, congruences, and secrets: A
+  computational approach}
+    \field{year}{2008}
+  \endentry
+
+  \entry{tweedie1983existence}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TR}{%
+         family={Tweedie},
+         familyi={T\bibinitperiod},
+         given={RL},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{TR1}
+    \strng{fullhash}{TR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{191\bibrangedash 196}
+    \field{title}{The existence of moments for stationary Markov chains}
+    \field{journaltitle}{Journal of Applied Probability}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Shah06MWM}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wischik},
+         familyi={W\bibinitperiod},
+         given={Damon},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDWD2}
+    \strng{fullhash}{SDWD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE INFOCOM}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{Optimal Scheduling Algorithms for Input-Queued Switches}
+    \list{location}{1}{%
+      {Barcelona, Spain}%
+    }
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Shah2012queuescaling}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SD}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Devavrat},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WN}{%
+         family={Walton},
+         familyi={W\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhong},
+         familyi={Z\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{SDWNZY1}
+    \strng{fullhash}{SDWNZY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the ACM SIGMETRICS}
+    \verb{doi}
+    \verb 10.1145/2254756.2254762
+    \endverb
+    \field{isbn}{978-1-4503-1097-0}
+    \field{pages}{17\bibrangedash 28}
+    \field{title}{Optimal Queue-size Scaling in Switched Networks}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/2254756.2254762
+    \endverb
+    \list{location}{1}{%
+      {London, England, UK}%
+    }
+    \field{year}{2012}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+\enddatalist
+\endinput

@@ -1,3 +1,4 @@
 bibtexparser
 editdistance
 click
+titlecase

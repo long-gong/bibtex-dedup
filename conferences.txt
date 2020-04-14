@@ -1,0 +1,44 @@
+
+Proceedings of the IEEE INFOCOM=Proceedings of the {IEEE} International Conference on Computer Communications ({INFOCOM})
+2015 IEEE 21st International Symposium on High Performance Computer Architecture (HPCA)=Proceedings of the {IEEE} International Symposium on High Performance Computer Architecture ({HPCA})
+Proceedings of the IEEE IPDPS=Proceedings of the {IEEE} International Parallel and Distributed Processing Symposium ({IPDPS})
+Proceedings of the HOTI=Proceedings of the {IEEE} Symposium on High-Performance Interconnects ({HOTI})
+Proc. of the STACS=Proceedings of the International Symposium on Theoretical Aspects of Computer Science ({STACS})
+Proceedings of the ACM SIGMETRICS=Proceedings of the {ACM SIGMETRICS} International Conference on Measurement and Modeling of Computer Systems
+Proceedings of the IEEE ICC=Proceedings of the {IEEE} International Conference on Communications ({ICC})
+Proceedings of the Eleventh International Joint Conference on Measurement and Modeling of Computer Systems=Proceedings of the {ACM SIGMETRICS/PERFORMANCE} Joint International Conference on Measurement and Modeling of Computer Systems
+Proceedings of the 1st USENIX conference on Operating Systems Design and Implementation=Proceedings of the {USENIX} conference on Operating Systems Design and Implementation ({OSDI})
+Proceedings of the ISCA=Proceedings of the International Symposium on Computer Architecture ({ISCA})
+Proc. of the ACM Symposium on Communications Architectures \&Amp; Protocols=Proceedings of the Conference on Communications Architecture \& Protocols
+Proceedings of International Workshop on Quality of Service (IWQoS)=Proceedings of the {IEEE} International Workshop on Quality of Service ({IWQoS})
+IEEE INFOCOM 2004=Proceedings of the {IEEE} International Conference on Computer Communications ({INFOCOM})
+Proc. of the IEEE GLOBECOM=Proceedings of the {IEEE} Global Communications Conference ({GLOBECOM})
+Proc. of the IEEE INFOCOM=Proceedings of the {IEEE} International Conference on Computer Communications ({INFOCOM})
+International Symposium on Experimental Algorithms=Proceedings of the International Symposium on Experimental Algorithms ({SEA})
+2006 IEEE International Conference on Communications=Proceedings of the {IEEE} International Conference on Communications ({ICC})
+Experimental Algorithms: 11th International Symposium, SEA 2012, Bordeaux, France, June 7-9, 2012. Proceedings=Proceedings of the International Symposium on Experimental Algorithms ({SEA})
+Proceedings of the ACM-SIAM SODA=Proceedings of the {ACM-SIAM} Symposium on Discrete Algorithms ({SODA})
+Proc. of the 7th International Conference on Experimental Algorithms=Proceedings of the International Symposium on Experimental Algorithms ({SEA})
+Proceedings of the 48th Annual Allerton Conference=Proceedings of the Allerton Conference on Communication, Control and Computing
+Proceedings of ACM SIGMETRICS=Proceedings of the {ACM SIGMETRICS} International Conference on Measurement and Modeling of Computer Systems
+Proceedings of the 44th IEEE Conference on Decision and Control=Proceedings of the {IEEE} Conference on Decision and Control ({CDC})
+Proceedings of the Allerton Conference on Communication, Control and Computing
+Proceedings of the IEEE FOCS=Proceedings of the {IEEE} Symposium on Foundations of Computer Science ({FOCS})
+Proceedings of the ACM CoNEXT=Proceedings of the International Conference on emerging Networking {EXperiments} and Technologies ({CoNEXT})
+Proceedings of the ACM SIGCOMM=Proceedings of the {ACM} Special Interest Group on Data Communication ({SIGCOMM})
+Proc. of the ACM STOC=Proceedings of the {ACM} Symposium on Theory of Computing ({STOC})
+Proc. of the {IEEE/IFIP IWQoS}=Proceedings of the {IEEE} International Workshop on Quality of Service ({IWQoS})
+Proceedings of ITCom (Modeling and Design of Wireless Networks)
+2015 IEEE 23rd Annual Symposium on High-Performance Interconnects=Proceedings of the {IEEE} Symposium on High-Performance Interconnects ({HOTI})
+49th IEEE Conference on Decision and Control (CDC)=Proceedings of the {IEEE} Conference on Decision and Control ({CDC})
+2013 IEEE 19th International Symposium on High Performance Computer Architecture (HPCA)=Proceedings of the {IEEE} International Symposium on High Performance Computer Architecture ({HPCA})
+Proceedings of the Joint International Conference on Measurement and Modeling of Computer Systems=Proceedings of the {ACM SIGMETRICS/PERFORMANCE} Joint International Conference on Measurement and Modeling of Computer Systems
+Performance Modeling and Engineering
+Proc. of the ACM SIGMETRICS=Proceedings of the {ACM SIGMETRICS} International Conference on Measurement and Modeling of Computer Systems
+Proc. of the ACM IMC=Proceedings of the Internet Measurement Conference ({IMC})
+Proc. of the ACM/IEEE NoCS=Proceedings of the {IEEE/ACM} International Symposium on Networks-on-Chip ({NOCS})
+Proceedings of the ACM PODC=Proceedings of the {ACM} Symposium on Principles of Distributed Computing ({PODC})
+Proc. of the ACM SIGCOMM=Proceedings of the {ACM} Special Interest Group on Data Communication ({SIGCOMM})
+Proceedings of the 9th International Symposium on Networks-on-Chip=Proceedings of the {IEEE/ACM} International Symposium on Networks-on-Chip ({NOCS})
+Proceedings of the DAC=Proceedings of the Annual Design Automation Conference ({DAC})
+Proceedings of the IEEE GLOBECOM=Proceedings of the {IEEE} Global Communications Conference ({GLOBECOM})
